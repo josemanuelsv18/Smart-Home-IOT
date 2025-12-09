@@ -207,15 +207,15 @@ Ver carpeta `docs/` para:
 
 ## 👥 Autor
 
-[Tu Nombre] - Desarrollo de Software VIII
+Gabriel Cubilla, Fransisco Herrera, Karen Sanchez, Josemanuel Sifontes, Iván Wu - Desarrollo de Software VIII
 
 ## 📄 Licencia
-
-Este proyecto es para fines educativos - Universidad [Nombre]
+GNU
+Este proyecto es para fines educativos - Universidad Tecnologica de Panamá
 
 ## 🙏 Agradecimientos
 
-- Profesor: [Nombre del profesor]
+- Profesor: Tomas Calderon
 - Curso: Desarrollo de Software VIII
 - Simulador: Wokwi
 - Plataformas: ThingSpeak, HiveMQ
